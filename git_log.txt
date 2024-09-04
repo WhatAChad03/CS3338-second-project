@@ -1,0 +1,58 @@
+commit 9c643ac5be40206e33ec26703ade0fd5bf483ad0
+Merge: 18f967f c1ea426
+Author: Christine Vu <christinemvu30507@gmail.com>
+Date:   Wed Aug 28 15:58:26 2024 -0700
+
+    Merge branch 'main' of https://github.com/WhatAChad03/CS3338-second-project
+
+commit 18f967fadd51445d4231b25cd947f5441ba2f3af
+Merge: b3a1b98 e571477
+Author: Christine Vu <christinemvu30507@gmail.com>
+Date:   Wed Aug 28 15:56:20 2024 -0700
+
+    resolved conflict
+
+commit e5714774e24dea0f734fb67061e9de6a069c84c1
+Author: Christine Vu <christinemvu30507@gmail.com>
+Date:   Wed Aug 28 15:43:16 2024 -0700
+
+    Added favorite movie
+
+commit b3a1b985da062c7870dbe51354b804fb6d53086a
+Author: Christine Vu <christinemvu30507@gmail.com>
+Date:   Wed Aug 28 15:40:02 2024 -0700
+
+    added favorite food
+
+commit 5c85db1a163e0aab91154a9f1f6bc1bf098cb026
+Author: Christine Vu <christinemvu30507@gmail.com>
+Date:   Wed Aug 28 15:35:11 2024 -0700
+
+    added favorite food
+
+commit c1ea4266b3754ab1ae624d15fe41024d531c3d58
+Author: Christine Vu <152325938+WhatAChad03@users.noreply.github.com>
+Date:   Wed Aug 28 15:33:16 2024 -0700
+
+    Create README.md
+
+commit 49a9e0ffea056f94fd3e1aaa92ff0bce99145af3
+Merge: 1d2bfc0 0dade1b
+Author: Christine Vu <152325938+WhatAChad03@users.noreply.github.com>
+Date:   Wed Aug 28 15:32:09 2024 -0700
+
+    Merge pull request #1 from WhatAChad03/info-fill
+    
+    Filled in the blanks
+
+commit 0dade1ba2c7366c1af2854ffacde333856c20969
+Author: Christine Vu <christinemvu30507@gmail.com>
+Date:   Wed Aug 28 15:25:29 2024 -0700
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
